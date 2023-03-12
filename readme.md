@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm VISHNUPRABHU R</h1>
-<h3 align="center">SOFTWARE DEVELOPER</h3>
-
-![programmer](https://user-images.githubusercontent.com/89796024/224526598-5357699c-9956-426b-aa22-d673d4e40b12.gif)
-
+<h1 align="center">SOFTWARE DEVELOPER</h1>
+<br>
+<br>
+<p align="center"> <img src="![programmer](https://user-images.githubusercontent.com/89796024/224526598-5357699c-9956-426b-aa22-d673d4e40b12.gif)" /> </p>
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuprabhu-170&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuprabhu-170" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuprabhu-170" alt="vishnuprabhu-170" /></a> </p>
